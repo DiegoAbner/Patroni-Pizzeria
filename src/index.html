@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patroni Pizzeria</title>
+    <link rel="stylesheet" href="./index.css">
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+    </style>
+
+</head>
+
+<body>
+    <section class="container">
+
+
+        <figure class="logo-patroni">
+            <img src="logo.png" alt="Logo da Pizzaria">
+        </figure>
+
+        <main class="input-container">
+            <label>Valor total da conta:</label>
+            <input type="text" id="totalConta" placeholder="100.00 R$ " />
+
+            <label>Incluir Taxa de Serviço:</label>
+            <select id="taxaServico">
+                <option value="Sim">Sim</option>
+                <option value="Não" selected>Não</option>
+            </select>
+
+            <label>Quantidade de pagantes:</label>
+            <select id="qtdPagantes">
+                <option value="1" selected>1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+            </select>
+
+            <button class="button-calc" onclick="calcularConta()">Calcular</button>
+
+
+
+    </section>
+
+    <section class="modal-container" id="modal-container">
+    
+        <div id="modalDesconto" class="modal">
+            <div class="modal-content">
+                <h1 class="Titulo-modal">Essa conta terá desconto?</h1>
+                <p class="Subtitulo-modal">Apenas para contas pagas em pix, débito ou dinheiro </p>
+
+                <div class="button-div">
+                    <button class="button-nao" onclick="aplicarDesconto(false)">Não</button>
+                    <button class="button-sim" onclick="aplicarDesconto(true)">Sim</button>
+                </div>
+            </div>
+        </div>
+
+        
+        <div id="modalResultadoDesconto" class="modal">
+            <div class="modal-content">
+                <h1 class="Titulo-modal">Valor da Conta:</h1>
+                <p class="Subtitulo-modal" id="resultadoDesconto"></p>
+                <button class="button-concluir" onclick="concluir()">Concluir</button>
+            </div>
+        </div>
+
+      
+        <div id="modalResultadoSemDesconto" class="modal">
+            <div class="modal-content">
+                <h1 class="Titulo-modal">Valor da Conta:</h1>
+                <p class="Subtitulo-modal" id="resultadoSemDesconto"></p>
+                <button class="button-concluir" onclick="concluir()">Concluir</button>
+            </div>
+        </div>
+
+
+    </section>
+
+
+    </main>
+
+
+
+
+    <script src="index.js"></script>
+</body>
+
+</html>
+
