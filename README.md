@@ -10,15 +10,15 @@ Este projeto tem como objetivo simular o funcionamento de uma comanda digital si
 
 ## 🚀 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## ⚙️ Funcionalidades
 
-- Inserção do nome dos clientes
-- Registro dos itens e valores consumidos
-- Cálculo automático do total da comanda
+- Inserção de valor da comanda no input;
+- Opção de escolha sobre inclusão de taxa de serviço;
+- Escolha do número de pagantes entre 1 a 4 pessoas;
 - Aplicação de desconto com base na forma de pagamento (ex: Pix, Dinheiro)
 - Divisão do valor entre os clientes
 
