@@ -47,7 +47,7 @@ Este projeto tem como objetivo simular o funcionamento de uma comanda digital si
 Uma história do usuário é uma explicação informal e geral sobre um recurso de software escrita a partir da perspectiva do usuário final. Seu objetivo é articular como um recurso de software pode gerar valor para o cliente.
 No caso desta aplicação, a utilização é voltada exclusivamente para o serviço de atendimento: garçom/garçonete.
 
- - # Primeira História de Usuário
+ - ## Primeira História de Usuário
 
 Eu, como garçom/garçonete anoto na aplicação o valor total da comanda, a fim de que não dependa da minha memória, mediante ao volume constante de atendimentos simultâneos.
 
