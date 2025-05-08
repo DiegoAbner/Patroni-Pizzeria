@@ -1,4 +1,7 @@
  ## 🍕 Patroni Pizzeria 🍕
+
+ ![logo](https://github.com/user-attachments/assets/f1f009fe-2f29-4fe7-9524-b4da9f2465e1)
+
 Projeto sob supervisão da Campinho Digital
 
 # 🍽️ Comanda Digital – Cálculo de Consumo em Restaurante
@@ -36,7 +39,16 @@ Este projeto tem como objetivo simular o funcionamento de uma comanda digital si
 ## 🎨 Prototipação no Figma
  - O projeto teve sua prototipação elaborada no Figma. 
 
- 
+ ![Captura de Tela 2025-05-08 às 09 21 54](https://github.com/user-attachments/assets/3a0f364d-b51b-46b9-aee1-066edc01795a)
+
+## 🎨 Demonstração do Projeto
+
+
+
+https://github.com/user-attachments/assets/4004f8a9-8642-452c-adcb-d333a67da184
+
+
+
 
 ## ▶️ Como Rodar o Projeto
 
