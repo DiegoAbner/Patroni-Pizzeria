@@ -41,7 +41,7 @@ Este projeto tem como objetivo simular o funcionamento de uma comanda digital si
 
  ![Captura de Tela 2025-05-08 às 09 21 54](https://github.com/user-attachments/assets/3a0f364d-b51b-46b9-aee1-066edc01795a)
 
-## 🎨 Demonstração do Projeto
+## 🎥 Demonstração do Projeto
 
 
 
