@@ -34,12 +34,39 @@ Este projeto tem como objetivo simular o funcionamento de uma comanda digital si
 - Conversão de strings para números
 - Controle de fluxo com estruturas condicionais
 - Uso de funções para organização e reutilização de código
+- Prototipação de projeto
+- Organização de imagens no fluxo do projeto.
 
 
 ## 🎨 Prototipação no Figma
  - O projeto teve sua prototipação elaborada no Figma. 
 
  ![Captura de Tela 2025-05-08 às 09 21 54](https://github.com/user-attachments/assets/3a0f364d-b51b-46b9-aee1-066edc01795a)
+
+## Histórias de usuários 🧾
+Uma história do usuário é uma explicação informal e geral sobre um recurso de software escrita a partir da perspectiva do usuário final. Seu objetivo é articular como um recurso de software pode gerar valor para o cliente.
+No caso desta aplicação, a utilização é voltada exclusivamente para o serviço de atendimento: garçom/garçonete.
+
+ #- Primeira História de Usuário
+
+Eu, como garçom/garçonete anoto na aplicação o valor total da comanda, a fim de que não dependa da minha memória, mediante ao volume constante de atendimentos simultâneos.
+
+ #- Segunda História de Usuário
+
+Eu, como garçom/garçonete, anoto na aplicação, se aquela mesa optou ou não, por taxa de serviço.
+
+ #- Terceira História de Usuário
+
+Eu, como garçom/garçonete, seleciono na aplicação, a quantidade de pessoas na mesa.
+
+ #- Quarta História de Usuário
+
+Eu, como garçom/garçonete, tenho a possibilidade de aplicar, ou não, a taxa de desconto de acordo com as regras de negócios aplicadas nessa situação: 3% de desconto para pagamentos realizados em PIX, Dinheiro ou Débito.
+
+#- Quinta e última História de Usuário
+
+Eu, como garçom/garçonete, recebo o resumo da comanda: valor total com ou sem taxas inclusas, aplicação ou não do desconto de pagamento e divisão total por cada pessoa.
+
 
 ## 🎥 Demonstração do Projeto
 
