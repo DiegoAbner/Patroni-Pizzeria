@@ -1,8 +1,8 @@
- # 🍕 Patroni Pizzeria 🍕
+ # 🍕 Patroni Pizzeria 
 
  ![logo](https://github.com/user-attachments/assets/f1f009fe-2f29-4fe7-9524-b4da9f2465e1)
 
-Projeto sob supervisão da [Campinho Digital]([https://pages.github.com/](https://www.instagram.com/campinhodigital?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+Projeto sob supervisão da [Campinho Digital](https://www.instagram.com/campinhodigital?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ## 🍽️ Comanda Digital – Cálculo de Consumo em Restaurante
 
