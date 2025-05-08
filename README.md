@@ -45,7 +45,11 @@ Este projeto tem como objetivo simular o funcionamento de uma comanda digital si
 
 
 
-https://github.com/user-attachments/assets/4004f8a9-8642-452c-adcb-d333a67da184
+
+
+https://github.com/user-attachments/assets/aab7b62d-3fdf-4867-9201-f18bd729dcaf
+
+
 
 
 
