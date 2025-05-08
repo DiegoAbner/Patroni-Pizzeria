@@ -10,31 +10,33 @@ Este projeto tem como objetivo simular o funcionamento de uma comanda digital si
 
 ## 🚀 Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript
+- HTML;
+- CSS;
+- JavaScript.
 
 ## ⚙️ Funcionalidades
 
 - Inserção de valor da comanda no input;
 - Opção de escolha sobre inclusão de taxa de serviço;
 - Escolha do número de pagantes entre 1 a 4 pessoas;
-- Aplicação de desconto com base na forma de pagamento (ex: Pix, Dinheiro)
-- Divisão do valor entre os clientes
+- Aplicação de desconto com base na forma de pagamento (ex: Pix, Dinheiro);
+- Divisão do valor entre os clientes.
 
 ## 🎯 Objetivos
 
-- Praticar lógica de programação com JS
-- Utilização do `prompt`, `alert` e `confirm` para interações com o usuário
-- Simulação de fluxo de um sistema de restaurante
+- Praticar lógica de programação com JS;
+- Criar uma interface em HTML com o uso da lógica do JS;
+- Estilizar a interface com uso de CSS, seguindo o requirido na prototipação;
+- Utilização do `prompt`, `alert` e `confirm` para interações com o usuário;
+- Simulação de fluxo de um sistema de restaurante.
 
 ## 💡 Aprendizados
 
-- Coleta e manipulação de dados via `prompt`
-- Conversão de strings para números
-- Controle de fluxo com estruturas condicionais
-- Uso de funções para organização e reutilização de código
-- Prototipação de projeto
+- Coleta e manipulação de dados via `prompt`;
+- Conversão de strings para números;
+- Controle de fluxo com estruturas condicionais;
+- Uso de funções para organização e reutilização de código;
+- Prototipação de projeto;
 - Organização de imagens no fluxo do projeto.
 
 
@@ -93,3 +95,10 @@ git clone git@github.com:DiegoAbner/ciclo-3-aula-1.git
 ```
 
 2. Abra o arquivo `index.html` no navegador.
+
+
+
+##  Autor
+
+###Diego Abner
+[Linkedin] (https://www.linkedin.com/in/abnerdiego/)
