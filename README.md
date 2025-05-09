@@ -45,7 +45,7 @@ Este projeto tem como objetivo simular o funcionamento de uma comanda digital si
 
  ![Captura de Tela 2025-05-08 às 09 21 54](https://github.com/user-attachments/assets/3a0f364d-b51b-46b9-aee1-066edc01795a)
 
-## Histórias de usuários 🧾
+## 👩🏿‍💻 Histórias de usuários 👨🏽‍💻
 Uma história do usuário é uma explicação informal e geral sobre um recurso de software escrita a partir da perspectiva do usuário final. Seu objetivo é articular como um recurso de software pode gerar valor para o cliente.
 No caso desta aplicação, a utilização é voltada exclusivamente para o serviço de atendimento: garçom/garçonete.
 
@@ -103,4 +103,5 @@ git clone git@github.com:DiegoAbner/ciclo-3-aula-1.git
 ## ✍🏾 Autor
 
 ### Diego Abner
-[LinkedIn](https://www.linkedin.com/in/abnerdiego/)
+
+  [LinkedIn](https://www.linkedin.com/in/abnerdiego/)
