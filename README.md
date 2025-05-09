@@ -98,7 +98,9 @@ git clone git@github.com:DiegoAbner/ciclo-3-aula-1.git
 
 
 
-##  Autor
 
-###Diego Abner
-[Linkedin] (https://www.linkedin.com/in/abnerdiego/)
+
+## ✍🏾 Autor
+
+### Diego Abner
+[LinkedIn](https://www.linkedin.com/in/abnerdiego/)
