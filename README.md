@@ -40,8 +40,8 @@ Este projeto tem como objetivo simular o funcionamento de uma comanda digital si
 - Organização de imagens no fluxo do projeto.
 
 
-## 🎨 Prototipação no Figma
- - O projeto teve sua prototipação elaborada no Figma. 
+## 🎨 Prototipação no [Figma](https://www.figma.com/proto/lWsf0tiHiGnOuo3PFAGDB8/Patroni-Project?node-id=0-1&t=X7LOztQUHZWOzyqs-1)
+ - O projeto teve sua prototipação elaborada no [Figma](https://www.figma.com/proto/lWsf0tiHiGnOuo3PFAGDB8/Patroni-Project?node-id=0-1&t=X7LOztQUHZWOzyqs-1). 
 
  ![Captura de Tela 2025-05-08 às 09 21 54](https://github.com/user-attachments/assets/3a0f364d-b51b-46b9-aee1-066edc01795a)
 
