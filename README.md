@@ -2,11 +2,29 @@
 
  ![logo](https://github.com/user-attachments/assets/f1f009fe-2f29-4fe7-9524-b4da9f2465e1)
 
-Projeto sob supervisão da [Campinho Digital](https://www.instagram.com/campinhodigital?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) no curso de Programação Web Front End
 
 ## 🍽️ Comanda Digital – Cálculo de Consumo em Restaurante
 
 Este projeto tem como objetivo simular o funcionamento de uma comanda digital simples. O sistema permite calcular o valor total consumido por uma mesa e aplicar descontos com base na forma de pagamento.
+
+
+## 🎥 Demonstração do Projeto
+
+
+
+
+
+
+https://github.com/user-attachments/assets/b4813d0b-5bf4-49c5-9310-166cfe983e91
+
+
+
+
+
+
+
+
+
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -70,22 +88,6 @@ Eu, como garçom/garçonete, tenho a possibilidade de aplicar, ou não, a taxa d
 Eu, como garçom/garçonete, recebo o resumo da comanda: valor total com ou sem taxas inclusas, aplicação ou não do desconto de pagamento e divisão total por cada pessoa.
 
 
-## 🎥 Demonstração do Projeto
-
-
-
-
-
-
-https://github.com/user-attachments/assets/b4813d0b-5bf4-49c5-9310-166cfe983e91
-
-
-
-
-
-
-
-
 
 ## ▶️ Como Rodar o Projeto
 
@@ -98,10 +100,10 @@ git clone git@github.com:DiegoAbner/ciclo-3-aula-1.git
 
 
 
-
-
 ## ✍🏾 Autor
 
 ### Diego Abner
 
   [LinkedIn](https://www.linkedin.com/in/abnerdiego/)
+
+  Projeto sob supervisão da [Campinho Digital](https://www.instagram.com/campinhodigital?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) no curso de Programação Web Front End
